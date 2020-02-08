@@ -19,5 +19,5 @@ A smart system which uses Deep Learning (CNN ) to segregate paper and plastic wa
 https://drive.google.com/file/d/1sHCqQmcw2g9Oh0agvt8Wk1DM96hcxLGZ/view
 
 ## Working Demo
-![Working demo](https://github.com/pcube99/waste-segregator/blob/master/demo.jpg)
+<a href="url"><img src="https://github.com/pcube99/waste-segregator/blob/master/demo.jpg" align="left" height="400" width="500" ></a>
 
