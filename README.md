@@ -12,4 +12,12 @@
 ## Problem Statement
 A smart system which uses Deep Learning (CNN ) to segregate paper and plastic waste.
 
-## 
+## System workflow
+![system workflow](https://github.com/pcube99/waste-segregator/blob/master/system%20workflow.png)
+
+## Working Demo video
+https://drive.google.com/file/d/1sHCqQmcw2g9Oh0agvt8Wk1DM96hcxLGZ/view
+
+## Working Demo
+![Working demo](https://github.com/pcube99/waste-segregator/blob/master/demo.jpg)
+
