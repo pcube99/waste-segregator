@@ -14,6 +14,11 @@ A smart system which uses Deep Learning (CNN ) to segregate paper and plastic wa
 
 ## Approximated Accuracy is around 94%
 
+## Tech Stack
+1. Keras
+1. Flask
+1. Python
+
 ## System workflow
 ![system workflow](https://github.com/pcube99/waste-segregator/blob/master/system%20workflow.png)
 
